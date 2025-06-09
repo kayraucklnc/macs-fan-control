@@ -41,7 +41,7 @@
     <Presets>
         <activePresetLabel>Aktif ayar:</activePresetLabel>
         <presetAutomatic>Otomatik</presetAutomatic>
-        <presetFullBlast>Tam Patlama</presetFullBlast>
+        <presetFullBlast>Tam Güç</presetFullBlast>
         <presetCurrentUnsaved>Özelleşmiş*</presetCurrentUnsaved>
         <presetMenuSave>Kaydet...</presetMenuSave>
         <presetMenuRename>Yeniden Adlandır</presetMenuRename>
